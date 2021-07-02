@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to Wall-E 👋</h1>
+<h1 align="center">Welcome to Wooble 👋</h1>
 
 ## Download , Set and Share 10000+ HD Wallpapers for completely free!!!
 - The goal of this app is to serve amazing Wallpapers to the people all across the world. 
