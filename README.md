@@ -3,7 +3,7 @@
 
 ## Download , Set and Share 10000+ HD Wallpapers for completely free!!!
 - The goal of this app is to serve amazing Wallpapers to the people all across the world. 
-- Bring your screen to life with exclusive Wallpapers delivered to you by Wallify
+- Bring your screen to life with exclusive Wallpapers delivered to you by Wooble
 - Did you know that an average user checks their device more than 100 times a day? Make each time a real pleasure with unique wallpapers from QHD Wallpapers collections. 
 - Let your device become a source of self-expression, joy, inspiration and beautiful!
 
