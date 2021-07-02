@@ -11,7 +11,7 @@
 <h4 align="center">Click on the "Android" image below to download the App.</h4>
 <br/>
 <p align="center">
-  <a href="https://github.com/zaidmukaddam/Wall-E/releases/download/1.0.0/app-release.apk">
+  <a href="https://github.com/zaidmukaddam/Wooble/releases/download/1.0.0/app-release.apk">
     <img alt="Download"
          src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"
          width="200"/>
